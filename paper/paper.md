@@ -33,9 +33,21 @@ authors_short: Zander \emph{et al.}
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
+ARC-Portal Hackathon, we here report...
 
-## Meeting information
+# Results
+
+## User stories
+
+## Portal UI
+
+## Backend, Database, API
+
+# Discussion
+
+# Plan 
+
+## Meeting information 
 
 If you want to submit a preprint to BioHackrXiv, first check if your meeting is registered. You can find a list
 of meetings [here](https://index.biohackrxiv.org/meetings). If your meeting is missing, please contact your meeting
