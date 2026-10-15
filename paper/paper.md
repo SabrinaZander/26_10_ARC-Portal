@@ -1,33 +1,31 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'ARC-Portal-Hackathon report'
+title_short: 'ARC-Portal'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
-authors:
-  - name: First Author
+  - ARCs
+ authors:
+  - name: Sabrina Zander
     affiliation: 1
+    orcid: 0009-0000-4569-6126
     role: Writing – original draft
-  - name: Last Author
+  - name: Dominik Brilhaus
     orcid: 0000-0000-0000-0000
     affiliation: 2
     role: Conceptualization, Writing – review & editing
 affiliations:
-  - name: First Affiliation
+  - name: MibiNet
     index: 1
-  - name: ELIXIR Europe
-    ror: 044rwnt51
+  - name: CEPLAS
     index: 2
-date: 8 November 2023
+date: 15 October 2026
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
+event: ARC-Portal Hackathon
+biohackathon_name: "ARC-Portal Hackathon"
+biohackathon_url:   
+biohackathon_location: "Erkrath, Germany"
+group: 
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url:https://github.com/SabrinaZander/26_10_ARC-Portal
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: First Author \emph{et al.}
@@ -36,26 +34,11 @@ authors_short: First Author \emph{et al.}
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
+, we here report...
 
 ## Meeting information
 
-If you want to submit a preprint to BioHackrXiv, first check if your meeting is registered. You can find a list
-of meetings [here](https://index.biohackrxiv.org/meetings). If your meeting is missing, please contact your meeting
-organizers. The above list also provides information on the YAML fields with information about the meeting.
 
-The following fields need to be given:
-
-```YAML
-biohackathon_name: "BioHackathon Europe 2023"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
-git_url: https://github.com/yourOrganization/your_report_repo
-```
-
-The [BioHackrXiv meeting pages](https://index.biohackrxiv.org/meetings) provide content to use for the first
-three fields. The `git_url:` field must have the link to the GitHub repository with your preprint (draft).
 
 ## Author information
 
